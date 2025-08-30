@@ -21,11 +21,6 @@ CSS: Para el diseño y la estilización de la interfaz, asegurando una experienc
 
 JavaScript: Para la lógica financiera, realizando cálculos en tiempo real y actualizando la interfaz con los resultados.
 
-Cómo usar el proyecto
-
-Clonar el repositorio
-
-git clone https://github.com/emanuelgm1998/build-a-financial-calculator.git  
 
 
 Abrir el archivo HTML en tu navegador
