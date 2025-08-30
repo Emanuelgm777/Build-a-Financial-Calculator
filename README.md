@@ -1,54 +1,47 @@
 Build-a-Financial-Calculator
 Descripción
 
-Este proyecto crea una calculadora financiera que permite realizar varias operaciones matemáticas y financieras comunes, tales como la conversión de divisas, el cálculo de intereses compuestos y más. El objetivo de este proyecto es crear una aplicación simple y eficiente que sea fácil de usar, implementada en JavaScript y con una interfaz web interactiva.
+Este proyecto consiste en la creación de una calculadora financiera que permite realizar cálculos financieros básicos y avanzados, como el cálculo de intereses compuestos, ahorros mensuales necesarios para alcanzar un objetivo, préstamos y más. La calculadora está implementada en JavaScript y está diseñada para ser fácil de usar, proporcionando resultados precisos para diferentes escenarios financieros.
 
 Características
 
-Calculadora de Interés Compuesto: Permite calcular el monto final de una inversión o préstamo, dada una tasa de interés, el tiempo de inversión y el capital inicial.
+Cálculo de Interés Compuesto: Permite calcular el monto final de una inversión o préstamo basado en una tasa de interés, tiempo y capital inicial.
 
-Conversión de Divisas: Convierte una cantidad de dinero de una moneda a otra usando una tasa de cambio.
+Cálculo de Ahorro Mensual: Calcula cuánto necesitarías ahorrar cada mes para alcanzar un objetivo financiero determinado en un plazo específico.
 
-Cálculo de Ahorro mensual: Calcula cuánto necesitarías ahorrar cada mes para alcanzar un objetivo financiero determinado en un periodo específico.
+Cálculo de Préstamos: Estima los pagos mensuales de un préstamo con base en la tasa de interés, duración y monto del préstamo.
 
-Calculadora de préstamos: Estima los pagos mensuales de un préstamo en base a la tasa de interés, la duración y el monto.
+Conversión de Divisas: Realiza conversiones entre diferentes monedas, utilizando una tasa de cambio actualizada.
 
 Tecnologías utilizadas
 
-HTML: Para la estructura de la interfaz.
+HTML: Para la estructura de la interfaz web y la disposición de los formularios interactivos.
 
-CSS: Para el diseño y estilo de la aplicación.
+CSS: Para el diseño y la estilización de la interfaz, asegurando una experiencia de usuario limpia y amigable.
 
-JavaScript: Para implementar la lógica financiera y funcionalidad de la calculadora.
+JavaScript: Para la lógica financiera, realizando cálculos en tiempo real y actualizando la interfaz con los resultados.
 
 Cómo usar el proyecto
 
 Clonar el repositorio
 
-git clone https://github.com/emanuelgm1998/build-a-financial-calculator.git
+git clone https://github.com/emanuelgm1998/build-a-financial-calculator.git  
 
 
 Abrir el archivo HTML en tu navegador
-
 Navega a la carpeta del proyecto y abre el archivo index.html en tu navegador.
 
 Usar la calculadora
 
-Introduce los valores solicitados en los formularios de la interfaz.
+Ingresa los valores correspondientes en los campos de la interfaz.
 
-Presiona los botones correspondientes para realizar los cálculos.
+Presiona los botones correspondientes para calcular los resultados.
 
-Estructura del Proyecto
-build-a-financial-calculator/
-│
-├── index.html         # Página principal
-├── style.css          # Estilos de la interfaz
-├── script.js          # Lógica de la calculadora
-└── README.md          # Este archivo
+La calculadora mostrará el resultado de cada operación financiera en tiempo real.
 
 Instalación
 
-Este proyecto no requiere instalación, solo necesitas un navegador para ejecutarlo. Si deseas modificar el código, simplemente abre el archivo index.html en tu editor de texto preferido y comienza a trabajar en el código.
+Este proyecto no requiere instalación adicional. Solo necesitas un navegador para ejecutar la calculadora. Si deseas modificar el código, simplemente abre el archivo index.html en tu editor de texto preferido y comienza a trabajar.
 
 Contribuciones
 
